@@ -4,7 +4,7 @@ A tablet-area and radial-follow smoothing calculator with a classic desktop-styl
 
 v2 focuses on custom aspect ratios, with Diagonal Mapping, Short-Edge Bottleneck, and a legacy area-based mode. Also includes strength scaling, precision options, and click-to-copy results.
 
-[Previous version (v1)](https://2k.lain.ch/tablet/keygen.php)
+[Previous version (v1)](https://2k.lain.ch/tablet/)
 
 ## Usage
 
